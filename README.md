@@ -1,4 +1,4 @@
-# User progress tracking application 
+# User progress tracking system 
 
 Please follow below instructions to run this project:
 
@@ -36,10 +36,10 @@ Generate and run jar file:
 #### For Database Migrations with Flyway, add maven dependency in pom.xml
 
 ```
-    <dependency>
-        <groupId>org.flywaydb</groupId>
-        <artifactId>flyway-core</artifactId>
-    </dependency>
+<dependency>
+    <groupId>org.flywaydb</groupId>
+    <artifactId>flyway-core</artifactId>
+</dependency>
 ```
 Create a folder db.migration under resources folder and then
 create SQL scripts under this folder. 
