@@ -8,8 +8,8 @@ You should have JDK-8 and MySql-8 installed in your PC to run this application.
 
 Technology stack:
 1. Java - 8
-2. Spring Boot JPA
-3. Spring Data
+2. Spring Boot 
+3. Spring Data JPA
 4. Maven
 5. Mysql
 6. Flyway
