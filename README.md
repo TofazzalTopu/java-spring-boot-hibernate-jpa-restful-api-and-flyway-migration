@@ -2,9 +2,9 @@
 
 Please follow below instructions to run this project:
 
-```
+
 You should have JDK-8 and MySql-8 installed in your PC to run this application.
-```
+
 
 Technology stack:
 1. Java - 8
